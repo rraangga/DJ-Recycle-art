@@ -1,12 +1,12 @@
 ## Welcome to DJ-Recyle Page
 
 
-# This is an
+# This is an <h1> tag
 
 
 ### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X 
 ### DI SMK N 2 KASIHAN BANTUL 
-### **SEKRIPSI** 
+**SEKRIPSI** 
 
 
 # Header 1
