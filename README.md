@@ -4,12 +4,10 @@
 
 
 
-### Markdown
+### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X *This text will be italic*
+### DI SMK N 2 KASIHAN BANTUL *This text will be italic*
+### SEKRIPSI *This text will be italic*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 <title><center><h1>perjuangan anak belitung</h1></center></title>
