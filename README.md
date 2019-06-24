@@ -1,12 +1,12 @@
 ## Welcome to DJ-Recyle Page
 
 
+# This is an
 
 
-
-### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X *This text will be italic*
-### DI SMK N 2 KASIHAN BANTUL *This text will be italic*
-### SEKRIPSI *This text will be italic*
+### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X 
+### DI SMK N 2 KASIHAN BANTUL 
+### **SEKRIPSI** 
 
 
 # Header 1
