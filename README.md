@@ -6,7 +6,7 @@
 #### __*SEKRIPSI*__
 
 
-!.. index.html
+index.html..!
 <html>
  <head>
     <title></title>
