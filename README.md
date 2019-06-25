@@ -5,8 +5,10 @@
 
 
 ### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X 
-### DI SMK N 2 KASIHAN BANTUL		gjhgjhgj
-		hkhkjhkhkkkl
+### DI SMK N 2 KASIHAN BANTUL YOGYAKARTA
+
+
+#### __*SEKRIPSI*__
 
 
 # Header 1
