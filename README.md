@@ -6,7 +6,6 @@
 #### __*SEKRIPSI*__
 
 
-index.html..!
 <html>
  <head>
     <title></title>
