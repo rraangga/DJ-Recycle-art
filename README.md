@@ -1,15 +1,11 @@
 ## Welcome to DJ-Recyle Page
---index.html--
-<html>
-<head>
-  <tietle><center>ABCD</title></center>
-</head>
+
+
+
 
 
 ### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X 
-### DI SMK N 2 KASIHAN BANTUL 
-                
-                *SEKRIPSI* __*SEKRIPSI*__
+### DI SMK N 2 KASIHAN BANTUL
 
 
 # Header 1
