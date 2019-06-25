@@ -1,7 +1,7 @@
 <html>
-  <title>
-## Welcome to DJ-Recyle Page
-  </title>
+ <head>
+    <title>Welcome to DJ-Recyle Page</title>
+ </head>
 </html>
 
 
