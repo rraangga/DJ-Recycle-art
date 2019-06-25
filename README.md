@@ -1,17 +1,14 @@
+# DJ RECYCLE PRODUCTIONS
+### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X 
+### DI SMK N 2 KASIHAN BANTUL YOGYAKARTA
+
+#### __*SEKRIPSI*__
+
 !.. index.html
 <html>
  <head>
     <title>Welcome to DJ-Recyle Page</title>
  </head>
-
-
-
-
-### MODEL PEMBELAJARAN ANSAMBEL GITAR KELAS X 
-### DI SMK N 2 KASIHAN BANTUL YOGYAKARTA
-
-
-#### __*SEKRIPSI*__
 
 
 # Header 1
